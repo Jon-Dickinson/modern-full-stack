@@ -1,2 +1,2 @@
 # modern-full-stack
-Next js TypeScript Styled Components with Prisma Node TypeScript 
+Cloneable starter for Next.js + API + Prisma + Postgres with clean architecture
